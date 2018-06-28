@@ -13,6 +13,14 @@ All submission to the subreddit where taken as questions, and the first comment 
 * Comments which where [deleted] , [removed] or posted by the subreddit auto bot where removed. 
 * Submission which didn't contain questions where removed (Subreddit bot automatically inforces that all submissions must have a question mark) 
 
+## Data 
+Each file is just under half a GB, hence why it's stored on a remote server. 
+
+* [Answers](http://fionndelahunty.me/files/reddit/Answers_R.txt)
+* [Questions](http://fionndelahunty.me/files/reddit/Questions_R.txt)
+
+
+
 ## Referencing 
 If used for academic purposes please contact fionnd [at] pm.me for full refencing infomation.  
 
