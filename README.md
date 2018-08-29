@@ -19,6 +19,15 @@ Each file is just under half a GB, hence why it's stored on a remote server.
 * [Answers](http://fionndelahunty.me/files/reddit/Answers_R.txt)
 * [Questions](http://fionndelahunty.me/files/reddit/Questions_R.txt)
 
+## Numbers 
+7,102,717  Questions
+12,039,795 Answers 
+ - 2,548,641 Autobots
+ - 831,108 Deleted 
+ - 73,881
+=8,586,165	
+4,976,759 Questions and Answers pairs
+
 
 
 ## Referencing 
