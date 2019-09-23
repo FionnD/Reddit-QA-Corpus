@@ -16,8 +16,8 @@ All submission to the subreddit where taken as questions, and the first comment 
 ## Data 
 Each file is just under half a GB, hence why it's stored on a remote server. 
 
-* [Answers](http://fionndelahunty.com/Datasets/Reddit/Answers_R.txt)
-* [Questions](http://fionndelahunty.me/Datasets/Reddit/Questions_R.txt)
+* [Answers](http://fionn.xyz/Datasets/Reddit/Answers_R.txt)
+* [Questions](http://fionn.xyz/Datasets/Reddit/Questions_R.txt)
 
 ## Numbers 
 7,102,717  Questions
