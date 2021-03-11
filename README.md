@@ -32,6 +32,17 @@ Each file is just under half a GB, hence why it's stored on a remote server.
 
 
 ## Referencing 
-If used for academic purposes please contact fionnd [at] pm.me for full refencing infomation.  
+If used for academic purposes please contact fionnd [at] pm.me for full refencing infomation. 
+```
+@misc{redditqa,
+    author = "{Fionn Delahunty}",
+    title = {{Reddit QA Corpus}},
+    howpublished = {\url{https://github.com/FionnD/Reddit-QA-Corpus}},
+    note = {Online; accessed XXX} ,
+    year=2018,
+}
+```
+
+
 
  
